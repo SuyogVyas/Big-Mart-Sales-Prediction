@@ -39,6 +39,9 @@ Outlet_Location_Type --	The type of city in which the store is located
 Outlet_Type	-- Whether the outlet is just a grocery store or some sort of supermarket
 
 Item_Outlet_Sales	-- Sales of the product in the particular store. This is the outcome variable to be predicted.
- 
+
+### Performance metrics
+
+We will use the Root Mean Square Error value to judge our response.
 
 
