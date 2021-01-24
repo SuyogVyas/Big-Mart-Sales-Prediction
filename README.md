@@ -42,13 +42,13 @@ Item_Outlet_Sales	-- Sales of the product in the particular store. This is the o
 
 ### ALOGRITHMS
 
-I have used RandomForestRegressor model to train the model and  it is the model which performs the best out of all the other models.
+We use RandomForestRegressor model to train the model and  it is the model which performs the best out of all the other models.
 
 The RMSE value of the model is 1139.635
 
 
 ### Performance metrics
 
-I will use the Root Mean Square Error value to judge our response.
+We will use the Root Mean Square Error value to judge our response.
 
 
